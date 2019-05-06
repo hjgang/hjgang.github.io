@@ -96,19 +96,19 @@ comments_provider: gitalk
 # https://imsun.net/posts/gitment-introduction/
 # gitment:
 #     owner: hjgang
-#     repo: king-kong-blog-comments
+#     repo: blog-comments
 #     oauth:
 #         client_id: 85865c2be6497d61812b
 #         client_secret: 0488e02a9a4c0603a76e4885f190d8b60c00c913
 # https://github.com/gitalk/gitalk#install
 gitalk:
 #    owner: hjgang
-#    repo: king-kong-blog-comments
+#    repo: blog-comments
 #    clientID: 616677b256feab4880a3
 #    clientSecret: 84e24c1a51e9ca097e21466e00ac0935a8e0ed0a
   enable: true #用来做启用判断可以不用
   owner: hjgang #Github 用户名,
-  repo: king-kong-blog-comments #储存评论issue的github仓库名
+  repo: blog-comments #储存评论issue的github仓库名
   admin: hjgang #Github 用户名,
   clientID: 616677b256feab4880a3 #`Github Application clientID`
   clientSecret: 84e24c1a51e9ca097e21466e00ac0935a8e0ed0a #`Github Application clientSecret`
