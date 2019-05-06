@@ -98,8 +98,8 @@ comments_provider: gitalk
 #     owner: hjgang
 #     repo: blog-comments
 #     oauth:
-#         client_id: 85865c2be6497d61812b
-#         client_secret: 0488e02a9a4c0603a76e4885f190d8b60c00c913
+#         client_id: 616677b256feab4880a3
+#         client_secret: 84e24c1a51e9ca097e21466e00ac0935a8e0ed0a
 # https://github.com/gitalk/gitalk#install
 gitalk:
 #    owner: hjgang
