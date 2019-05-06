@@ -91,8 +91,8 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: disqus_1TmFT0x4PO
+#disqus:
+#    username: disqus_1TmFT0x4PO
 # https://imsun.net/posts/gitment-introduction/
 # gitment:
 #     owner: hjgang
@@ -104,8 +104,8 @@ disqus:
 gitalk:
     owner: hjgang
     repo: king-kong-blog-comments
-    clientID: 85865c2be6497d61812b
-    clientSecret: 0488e02a9a4c0603a76e4885f190d8b60c00c913
+    clientID: 616677b256feab4880a3
+    clientSecret: 84e24c1a51e9ca097e21466e00ac0935a8e0ed0a
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
