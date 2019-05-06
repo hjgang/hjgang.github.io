@@ -94,12 +94,12 @@ comments_provider: gitalk
 disqus:
     username: disqus_1TmFT0x4PO
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: hjgang
-    repo: king-kong-blog-comments
-    oauth:
-        client_id: 85865c2be6497d61812b
-        client_secret: 0488e02a9a4c0603a76e4885f190d8b60c00c913
+# gitment:
+#     owner: hjgang
+#     repo: king-kong-blog-comments
+#     oauth:
+#         client_id: 85865c2be6497d61812b
+#         client_secret: 0488e02a9a4c0603a76e4885f190d8b60c00c913
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: hjgang
